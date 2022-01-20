@@ -1,2 +1,6 @@
 # desafio-github-primeiro-repositorio
-Desafio de Projecto sobre Git/GitHub
+Repositório criado para desafio de projecto.
+
+## Links Úteis
+https://www.linkedin.com/in/dorivaldo-feijo-j/
+[Sintaxe Básica]
